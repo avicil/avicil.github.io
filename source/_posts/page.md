@@ -1,46 +1,35 @@
 ---
-title: page
+title: 简历模板
 date: 2021-12-09 17:51:59
 tags:
-    - Hexo
-    - 主题
+    - avicil
+    - 简历
 categories:
-    - Hexo
-    - 主题
-keywords: "测试写文档"
+    - avicil
+    - 简历
+keywords: "个人简历"
 abbrlink: dda8c81b
 description:
 top_img:
 cover: /img/logo.jpg
 ---
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+### [avicil](https://avicil.github.io/) | 前端工程师
+avicil@126.com 
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+---  
+**语言：***英语 CET 4 | 粤语 & 客家话 | 日语在学* </center>
+   
+ **教育经历：***广东工业大学 [视觉传达设计]](https://www.gdut.edu.cn/)  | [茂名职业技术学院](https://www.mmpt.edu.cn/?gkfrom=card) 软件工程*  
+ 
+ **相关技能：***Node & JavaScript & HTML5 & vue | Visual Communication Design*
+ 
+----
+#### [本科经历](https://www.gdut.edu.cn/)
+ 这是一段毫无意义的文字，但是为了不影响大家阅读  
 
-### Run server
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+#### [专科经历](https://www.mmpt.edu.cn/?gkfrom=card)
+ 这是一段毫无意义的文字，但是为了不影响大家阅读  
+* * *
+*<center>@2021 Made by avicil</center>*
