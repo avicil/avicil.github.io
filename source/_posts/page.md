@@ -20,7 +20,7 @@ avicil@126.com
 ---  
 **语言：***英语 CET 4 | 粤语 & 客家话 | 日语在学* </center>
    
- **教育经历：***广东工业大学 [视觉传达设计]](https://www.gdut.edu.cn/)  | [茂名职业技术学院](https://www.mmpt.edu.cn/?gkfrom=card) 软件工程*  
+ **教育经历：***广东工业大学 [视觉传达设计](https://www.gdut.edu.cn/)  | [茂名职业技术学院](https://www.mmpt.edu.cn/?gkfrom=card) 软件工程*  
  
  **相关技能：***Node & JavaScript & HTML5 & vue | Visual Communication Design*
  
