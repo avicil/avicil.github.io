@@ -103,5 +103,6 @@ theme: hexo-theme-butterfly-dev
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/avicil/avicil.github.io.git
-  branch: master
+  repo: 
+    coding: git@e.coding.net:avicil/avicil/avicil.git,master
+    github: git@github.com:avicil/avicil.github.io.git,master
