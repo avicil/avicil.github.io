@@ -104,5 +104,6 @@ theme: hexo-theme-butterfly-dev
 deploy:
   type: git
   repo: 
-    coding: git@e.coding.net:avicil/avicil/avicil.git,master
-    github: git@github.com:avicil/avicil.github.io.git,master
+    coding: git@e.coding.net:avicil/avicil/avicil.git
+    github: git@github.com:avicil/avicil.github.io.git
+  branch: master
