@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://avicil.github.io/
+url: http://avicil.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,6 +104,6 @@ theme: hexo-theme-butterfly-dev
 deploy:
   type: git
   repo: 
-    coding: git@e.coding.net:avicil/avicil/avicil.git
+    coding: https://e.coding.net/avicil/avicil/avicil.git
     github: git@github.com:avicil/avicil.github.io.git
   branch: master
